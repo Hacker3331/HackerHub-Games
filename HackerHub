@@ -1,6 +1,0 @@
---[[
-if game.PlaceId == 3214114884 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/FlagWars-HackerHub.lua"))()
-  elseif game.PlaceId == 648362523 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/BreakingPoint-HackerHub.lua"))()
-end
