@@ -8,9 +8,9 @@ local HACKERHUBMOBILE = Instance.new("ScreenGui")
 local _100x100 = Instance.new("Frame")
 local ImageButton = Instance.new("ImageButton")
 
-KINGHUBMOBILE.Name = "HackerHubOpen"
-KINGHUBMOBILE.Parent = game:WaitForChild("CoreGui")
-KINGHUBMOBILE.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+HACKERHUBMOBILE.Name = "HackerHubOpen"
+HACKERHUBMOBILE.Parent = game:WaitForChild("CoreGui")
+HACKERHUBMOBILE.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 _100x100.Name = "100x100"
 _100x100.Parent = HACKERHUBMOBILE
@@ -39,9 +39,9 @@ local HACKERHUBMOBILE = Instance.new("ScreenGui")
 local _100x100 = Instance.new("Frame")
 local ImageButton = Instance.new("ImageButton")
 
-KINGHUBMOBILE.Name = "HackerHubOpen"
-KINGHUBMOBILE.Parent = game:WaitForChild("CoreGui")
-KINGHUBMOBILE.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+HACKERHUBMOBILE.Name = "HackerHubOpen"
+HACKERHUBMOBILE.Parent = game:WaitForChild("CoreGui")
+HACKERHUBMOBILE.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 _100x100.Name = "100x100"
 _100x100.Parent = HACKERHUBMOBILE
