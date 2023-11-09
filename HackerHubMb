@@ -29,7 +29,7 @@ game.CoreGui.HackerHub.Enabled = true
 game.CoreGui.HackerHub.Enabled = false
     end
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-obf/main/FlagWarsMb"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-obf/main/FlagWars"))()
   elseif game.PlaceId == 648362523 then
 local IMAGE = "rbxassetid://14715926873"
 local Positions = UDim2.new(0.001025776, 0, 0.5401606411, 0)
