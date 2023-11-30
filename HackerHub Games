@@ -1,0 +1,29 @@
+local GameP = game.PlaceId
+
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Checking", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+wait(0.5)
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Check Place Id..", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+wait(0.7)
+
+if game.PlaceId == "ID GAMES" then
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Game Supported " .. "[" .. GameP .. "]", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+
+else --Not Support
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Game Not Supported " .. "[" .. GameP .. "]", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+end
