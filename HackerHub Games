@@ -37,10 +37,4 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-obf/main/Doors%20%5BIn%20Game%5D.lua"))()
 
-else --Not Support
-game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Hacker Notification", -- Required
-	Text = "Game Not Supported " .. "[" .. GameP .. "]", -- Required
-	Icon = "rbxassetid://1234567890" -- Optional
-})
 end
