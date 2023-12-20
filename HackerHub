@@ -30,7 +30,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
   elseif game.PlaceId == 648362523 then --- Breaking Point
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
-	Text = "Sorry, the script on Repair Mode.. the script will im public soon!
+	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-obf/main/Breaking-Point.lua"))()
