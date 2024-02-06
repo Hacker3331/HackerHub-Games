@@ -11,4 +11,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Breaking Point (Script Hub) [Alpha, sorry if the script having bug.. like not loaded etc.]
 
-> Hacker Admin (Admin Commands) [Completed, fixed bug and update come soon!]
+> Hacker Admin "Version 5.9.4" (Admin Commands) [Completed, fixed bug and update come soon!]
