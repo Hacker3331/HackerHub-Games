@@ -1,5 +1,5 @@
 # Hacker Script Cheat
-**A new and upcoming hub for roblox horror games!**
+**A new Script Hub and The Script will be always updated!**
 ## Loader
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Loader.lua', true))()
