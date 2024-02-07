@@ -1,4 +1,4 @@
-local GameId = game.GameId
+local GameId = game.PlaceId
 function loadurl(url)
     loadstring(game:HttpGet(url))()
 end
@@ -19,21 +19,21 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 })
 wait(0.7)
 
-if GameId == "6516141723" then
+if game.PlaceId == "6516141723" then
     game:GetService("StarterGui"):SetCore("SendNotification",{
         Title = "Hacker Notification", -- Required
         Text = "Game Support " .. "[" .. GameId .. "]", -- Required
         Icon = "rbxassetid://1234567890" -- Optional
     })
     loadurl(repo.. 'Doors.lua')
-elseif GameId == "6839171747" then
+elseif game.PlaceId == "6839171747" then
     game:GetService("StarterGui"):SetCore("SendNotification",{
         Title = "Hacker Notification", -- Required
         Text = "Game Support " .. "[" .. GameId .. "]", -- Required
         Icon = "rbxassetid://1234567890" -- Optional
     })
     loadurl(repo..'Doors [In Game].lua')
-elseif GameId == "648362523" then
+elseif game.PlaceId == "648362523" then
     game:GetService("StarterGui"):SetCore("SendNotification",{
         Title = "Hacker Notification", -- Required
         Text = "Game Support " .. "[" .. GameId .. "]", -- Required
