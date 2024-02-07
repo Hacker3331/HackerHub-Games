@@ -42,7 +42,7 @@ elseif GameId == "648362523" then
     loadurl(repo.. 'BreakingPoint.lua')
 else --Not Support
     game:GetService("StarterGui"):SetCore("SendNotification",{
-        Title = "Notification", -- Required
+        Title = "Hacker Notification", -- Required
         Text = "Game Not Support " .. "[" .. GameId .. "]", -- Required
         Icon = "rbxassetid://1234567890" -- Optional
     })
