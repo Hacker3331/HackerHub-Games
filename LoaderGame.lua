@@ -1,4 +1,4 @@
-local GameId = game.GameId
+local GameId = game.PlaceId
 function loadurl(url)
     loadstring(game:HttpGet(url))()
 end
