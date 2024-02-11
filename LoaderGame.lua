@@ -1,12 +1,11 @@
-local GameId = game.PlaceId
 function loadurl(url)
     loadstring(game:HttpGet(url))()
 end
 repo = 'https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/'
-if GameId == 6516141723 then
+if game.PlaceId == 6516141723 then
     loadurl(repo..'Doors.lua')
-elseif GameId == 6839171747 then
+elseif game.PlaceId == 6839171747 then
     loadurl(repo..'Doors [In Game].lua')
-elseif GameId == 648362523 then
+elseif game.PlaceId == 648362523 then
     loadurl(repo..'BreakingPoint.lua')
 end
