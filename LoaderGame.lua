@@ -1,11 +1,7 @@
-function loadurl(url)
-    loadstring(game:HttpGet(url))()
-end
-repo = 'https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/'
-if game.PlaceId == 6516141723 then
-    loadurl(repo..'Doors.lua')
-elseif game.PlaceId == 6839171747 then
-    loadurl(repo..'Doors [In Game].lua')
-elseif game.PlaceId == 648362523 then
-    loadurl(repo..'BreakingPoint.lua')
-end
+local games = {
+    [6516141723] = "Doors",
+    [6839171747] = "Doors [In Game]",
+    [648362523] = "BreakingPoint"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/"..games[game.GameId]..".lua"))();
+(syn and syn.queue_on_teleport or queue_on_teleport or function() end)(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/LoaderGame.lua"))
