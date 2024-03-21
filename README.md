@@ -9,12 +9,14 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Hacker3331/HackerHub-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/HackerAdminGames.lua"))()
 ```
 ## Games
-> Doors (Script Hub) [Alpha]
+> Doors Lobby (Script Hub) [The script is still broken huh..]
 
-> Doors [In-Games] (Script Hub) [Alpha, sorry if the script is getting lag..]
+> Doors [In-Games] (Script Hub) [Success fully FIXED!!]
 
-> Breaking Point (Script Hub) [Alpha, sorry if the script having bug.. like not loaded etc.]
+> Breaking Point (Script Hub) [The Script Is FIXED and more feature will get add soon!]
 
 > Doors The Hunt : Backdoor (No On Loader Script) [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Hunt%20%3A%20Backdoor).lua]
+
+> Doors Auto Walk A-1000 (The Rooms) (Not On Loader Script) [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Rooms%20A-1000).lua] 
 ## Hacker Admin Information Update
 > New "Version 5.9.4" (Admin Commands) [Completed, fixed bug and update come soon!]
