@@ -11,9 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 ## Games
 > Doors Lobby (Script Hub) [The script is still broken huh..]
 
-> Doors [In-Games] (Script Hub) [Success fully FIXED!!]
-
-> Breaking Point (Script Hub) [The Script Is FIXED and more feature will get add soon!]
+> Doors [In-Games] (Script Hub) [Successfully FIXED!!]
 
 > Doors The Hunt : Backdoor (No On Loader Script) [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Hunt%20%3A%20Backdoor).lua]
 
