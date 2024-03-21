@@ -1,13 +1,13 @@
 local GameP = game.PlaceId
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Notification", -- Required
+	Title = "Hacker Notification", -- Required
 	Text = "Checking", -- Required
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 wait(0.5)
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Notification", -- Required
+	Title = "Hacker Notification", -- Required
 	Text = "Check Place Id..", -- Required
 	Icon = "rbxassetid://1234567890" -- Optional
 })
