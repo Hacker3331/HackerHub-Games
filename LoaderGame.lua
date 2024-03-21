@@ -27,13 +27,6 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20%5BIn%20Game%5D.lua"))()
-  elseif game.PlaceId == 648362523 then --- Breaking Point
-game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Hacker Notification", -- Required
-	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
-	Icon = "rbxassetid://1234567890" -- Optional
-})
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/BreakingPoint.lua"))()
   else -- Not Support
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
