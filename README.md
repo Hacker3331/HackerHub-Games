@@ -14,5 +14,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 > Doors [In-Games] (Script Hub) [Alpha, sorry if the script is getting lag..]
 
 > Breaking Point (Script Hub) [Alpha, sorry if the script having bug.. like not loaded etc.]
+
+> Doors The Hunt : Backdoor (No On Loader Script) [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Hunt%20%3A%20Backdoor).lua]
 ## Hacker Admin Information Update
 > New "Version 5.9.4" (Admin Commands) [Completed, fixed bug and update come soon!]
