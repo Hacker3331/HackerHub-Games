@@ -33,7 +33,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
 	Icon = "rbxassetid://1234567890" -- Optional
 })
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Murder%20VS%20Sherif.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Murder%20VS%20Sherif%20Duels.lua"))()
   else -- Not Support
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
