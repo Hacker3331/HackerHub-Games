@@ -13,6 +13,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Doors [In-Games] (Script Hub) [Successfully FIXED!!]
 
+> Murder VS Sherif Duels (Script Hub) [Forgive me if the script no work because im lazy to check it hehe]
+
 > Doors The Hunt : Backdoor (No On Loader Script) [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Hunt%20%3A%20Backdoor).lua]
 
 > Doors Auto Walk A-1000 (The Rooms) (Not On Loader Script) [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Rooms%20A-1000).lua] 
