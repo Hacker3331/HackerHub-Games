@@ -1,3 +1,11 @@
+--The Backdoors
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Backdoor).lua"))()
+
+--The Hotels
+if game:GetService("ReplicatedStorage").GameData.Floor.Value ~= "Hotel" then
+	return
+end
+
 game:GetService("Workspace").CurrentRooms.DescendantAdded:Connect(function(v)
     if not _G.IncreasedDistance then return end
     if v.IsA(v,"ProximityPrompt") then
