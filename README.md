@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Murder VS Sherif Duels (Script Hub) [Forgive me if the script no work because im lazy to check it hehe]
 
-> April Fools 2024 (Script Hub) [April Fools 2024 and 2023 is avaible again after you unlock "Rock Bottom", Only work on MODIFIERS Mode..] [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(April%20Fools%202024%20%5BMODIFIERS%5D).lua]
+> April Fools 2024 (Script Hub) (Not on Loader Script) [April Fools 2024 and 2023 is avaible again after you unlock "Rock Bottom", Only work on MODIFIERS Mode..] [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(April%20Fools%202024%20%5BMODIFIERS%5D).lua]
 
 > Doors Auto Walk A-1000 (The Rooms) (Not On Loader Script) [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Rooms%20A-1000).lua]
 
