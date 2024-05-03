@@ -1,5 +1,5 @@
 # Hacker Script Cheat
-**A new Script Hub and The Script will be always updated!**
+**A new Script Hub hacks for Roblox and The Script will be always updated!**
 ## Loader Game
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/LoaderGame.lua', true))()
@@ -20,4 +20,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 > Doors Auto Walk A-1000 (The Rooms) (Not On Loader Script) [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(The%20Rooms%20A-1000).lua]
 
 ## Hacker Admin Information Update
-> New "Version 5.9.4" (Admin Commands) [Completed, fixed bug and update come soon!]
+> New "Version 5.9.4" (Admin Commands) [Completed, fixed bug and update come soon!
+
+> Video Showcase of Hacker Admin 👉 ("https://youtube.com/watch?v=8ODRfPsC1MM")
