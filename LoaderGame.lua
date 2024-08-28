@@ -41,6 +41,13 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Residence%20Massacre%20%5BNight%201%5D.lua"))()
+  elseif game.PlaceId == 17376262788 then -- The Intruder [SUBWAY]
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/The%20Intruder%20%5BTHE%20SUBWAY%5D"))()
   else -- Not Support
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
