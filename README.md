@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Murder VS Sherif Duels (Script Hub) [Forgive me if the script no work because im lazy to check it hehe]
 
-> Residence Massacre (Script Hub) [New Library "OrionLib", NEW SCRIPT!] [Night 1 avaible, Night 2 coming up!] (Script Main Feature : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/MF%20Residence%20Massacre%20Night%201)
+> Residence Massacre (Script Hub) [New Library "OrionLib", NEW SCRIPT!] [Night 1 avaible, Night 2 coming up!] "Under Repair 🔨"
 
 > The Intruder (THE SUBWAY) [New Entity Notifier, ESP, Promxity No Cooldown etc.] NEW SCRIPT ✅️
 
