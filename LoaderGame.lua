@@ -48,6 +48,13 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/The%20Intruder%20%5BTHE%20SUBWAY%5D"))()
+  elseif game.PlaceId == 15980086096 then -- The 63 Infection
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/%E2%98%A2%EF%B8%8FThe%2063%20Infection.lua"))()
   else -- Not Support
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
