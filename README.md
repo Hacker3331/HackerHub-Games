@@ -21,7 +21,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > KAT INFECTION (Script Hub) "NEW SCRIPT ✅️"
 
-> The 63 Infection (Script Hub) "Updated ✅️ *Added Safe Zone teleport option*"
+> The 63 Infection (Script Hub) "Updated ✅️       *Added Safe Zone teleport option*"
 
 > The Intruder (THE SUBWAY) [New Entity Notifier, ESP, Promxity No Cooldown etc.]
 
