@@ -15,13 +15,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Murder VS Sherif Duels (Script Hub) [Forgive me if the script no work because im lazy to check it hehe]
 
-> Residence Massacre (Script Hub) [Issue : Entity Notifier and ESP. If larry spawn it will kick you] [Night 1 avaible, Night 2 coming up!] "Updated ✅️"
+> Residence Massacre (Script Hub) [Issue : Entity Notifier and ESP. If larry spawn it will kick you] [Night 1 avaible, Night 2 coming up!]
 
 > Murder Mystery 2 (Script Hub)
 
 > KAT INFECTION (Script Hub) "NEW SCRIPT ✅️"
 
-> The 63 Infection (Script Hub)
+> The 63 Infection (Script Hub) "Updated ✅️ *Added Safe Zone teleport option*"
 
 > The Intruder (THE SUBWAY) [New Entity Notifier, ESP, Promxity No Cooldown etc.]
 
