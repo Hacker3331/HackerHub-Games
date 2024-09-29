@@ -17,7 +17,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Residence Massacre (Script Hub) [Issue : Entity Notifier and ESP. If larry spawn it will kick you] [Night 1 avaible, Night 2 coming up!] "Updated ✅️"
 
-> The 63 Infection (Script Hub) "NEW SCRIPT ✅️"
+> Murder Mystery 2 (Script Hub) "NEW SCRIPT ✅️"
+
+> The 63 Infection (Script Hub)
 
 > The Intruder (THE SUBWAY) [New Entity Notifier, ESP, Promxity No Cooldown etc.]
 
