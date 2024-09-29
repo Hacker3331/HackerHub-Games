@@ -55,6 +55,13 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/%E2%98%A2%EF%B8%8FThe%2063%20Infection.lua"))()
+  elseif game.PlaceId == 142823291 then -- Murder Mystery 2
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Murder%20Mystery%202.lua"))()
   else -- Not Support
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
