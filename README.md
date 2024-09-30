@@ -32,4 +32,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 ## Hacker Admin Information Update
 > Current Version = "6"
 
-> New CMD "shiftmb/shiftlockmobile" [It can able you to shiftlock in mobile device!]
+> Updated CMD "dexmobile" [Rework The Dex without KEY!]
