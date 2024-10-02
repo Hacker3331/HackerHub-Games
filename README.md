@@ -17,9 +17,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Residence Massacre (Script Hub) [Issue : Entity Notifier and ESP. If larry spawn it will kick you] [Night 1 avaible, Night 2 coming up!]
 
+> Super Fun Obby (Script Hub) "NEW SCRIPT ✅️"
+
 > Murder Mystery 2 (Script Hub)
 
-> KAT INFECTION (Script Hub) "NEW SCRIPT ✅️"
+> KAT INFECTION (Script Hub)
 
 > The 63 Infection (Script Hub) "Updated ✅️       *Added Safe Zone teleport option*"
 
