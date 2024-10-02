@@ -69,7 +69,14 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/KAT%20INFECTION.lua"))()
-  else -- Not Support
+  elseif game.PlaceId == 12289948153 then -- Super Fun Obby
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Super%20Fun%20Obby.lua"))()
+else -- Not Support
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
 	Text = "Game Not Support " .. "[" .. GameP .. "]", -- Required
