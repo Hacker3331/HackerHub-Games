@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Doors [In-Games] (Script Hub) [Successfully FIXED!!] [Support Hotel and Backdoor]
 
-> Murder VS Sherif Duels (Script Hub) [Forgive me if the script no work because im lazy to check it hehe]
+> Murder VS Sherif Duels (Script Hub) "Down ❌️"
 
 > Residence Massacre (Script Hub) [Issue : Entity Notifier and ESP. If larry spawn it will kick you] [Night 1 avaible, Night 2 coming up!]
 
