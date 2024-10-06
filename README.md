@@ -19,11 +19,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Super Fun Obby (Script Hub) "NEW SCRIPT ✅️"
 
-> Murder Mystery 2 (Script Hub) "Updated! ✅️" *Added free emote.. Removed esp murder and sherif and it will work while you enable All Player ESP...*
+> Murder Mystery 2 (Script Hub)
 
 > KAT INFECTION (Script Hub)
 
-> The 63 Infection (Script Hub)
+> The 63 Infection (Script Hub) "Updated ✅️" *Added Mummy Girl Morph Section*
 
 > The Intruder (THE SUBWAY) [New Entity Notifier, ESP, Promxity No Cooldown etc.]
 
