@@ -16,8 +16,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 > Murder VS Sherif Duels (Script Hub) "Down ❌️"
 
 > Residence Massacre (Script Hub) [Issue : Entity Notifier and ESP. If larry spawn it will kick you] [Night 1 avaible, Night 2 coming up!]
+>
+> Arm Wrestle Simulator (Script Hub) "NEW SCRIPT ✅️"
 
-> Super Fun Obby (Script Hub) "NEW SCRIPT ✅️"
+> Super Fun Obby (Script Hub)
 
 > Murder Mystery 2 (Script Hub)
 
