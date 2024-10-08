@@ -76,6 +76,13 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Super%20Fun%20Obby.lua"))()
+  elseif game.PlaceId == 13127800756 then -- Arm Wrestle Simulator
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Arm%20Wrestle%20Simulator.lua"))()
 else -- Not Support
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
