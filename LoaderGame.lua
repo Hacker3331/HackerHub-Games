@@ -84,11 +84,6 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Arm%20Wrestle%20Simulator.lua"))()
 -- Rainbow Friend [All Chapter]
-game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Hacker Notification", -- Required
-	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
-	Icon = "rbxassetid://1234567890" -- Optional
-})
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Rainbow%20Friend%20%5BChapter%202%5D.lua"))()
 else -- Not Support
 game:GetService("StarterGui"):SetCore("SendNotification",{
