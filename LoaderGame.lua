@@ -33,6 +33,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Super%20Fun%20Obby.lua"))()
   elseif game.PlaceId == 13127800756 then -- Arm Wrestle Simulator
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Arm%20Wrestle%20Simulator.lua"))()
+  elseif game.PlaceId == 13622981808 then --Rainbow Friend Chapter 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Rainbow%20Friend%20%5BChapter%202%5D.lua"))()
 else --Not support
 print("Not Support")
 end
