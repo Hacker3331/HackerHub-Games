@@ -36,5 +36,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
   elseif game.PlaceId == 13622981808 then --Rainbow Friend Chapter 2
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Rainbow%20Friend%20%5BChapter%202%5D.lua"))()
 else --Not support
-print("Not Support")
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Hacker Notification", -- Required
+	Text = "Not Support", -- Required
+	Icon = "rbxassetid://1234567890" -- Optional
+})
 end
