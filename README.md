@@ -24,9 +24,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 > Murder Mystery 2 (Script Hub)
 
 > Rainbow Friend (Script Hub) "NEW SCRIPT ✅️"
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Rainbow%20Friend%20%5BChapter%202%5D.lua"))()
-```
 
 > KAT INFECTION (Script Hub)
 
