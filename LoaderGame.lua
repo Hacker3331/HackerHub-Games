@@ -83,7 +83,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Icon = "rbxassetid://1234567890" -- Optional
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Arm%20Wrestle%20Simulator.lua"))()
-  elseif game.PlaceId == 13622981808 then -- Rainbow Friend [Chapter 2]
+-- Rainbow Friend [All Chapter]
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
 	Text = "Game Support " .. "[" .. GameP .. "]", -- Required
