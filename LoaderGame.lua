@@ -1,5 +1,3 @@
-local GameP = game.PlaceId
-
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
 	Text = "Checking", -- Required
@@ -35,6 +33,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Arm%20Wrestle%20Simulator.lua"))()
   elseif game.PlaceId == 13622981808 then --Rainbow Friend (All Chapter)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Rainbow%20Friend%20%5BAll%20Chapter%5D.lua"))()
+  elseif game.PlaceId == 130626300187542 or game.PlaceId == 15814128235 or game.PlaceId == 80983962269476 then --Interliminality (All Chapter)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Interliminality.lua"))()
 else --Not support
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Hacker Notification", -- Required
