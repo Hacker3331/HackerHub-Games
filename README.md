@@ -15,8 +15,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Murder VS Sherif Duels (Script Hub) "Down ❌️"
 
-> Residence Massacre (Script Hub) [Issue : Entity Notifier and ESP. If larry spawn it will kick you] [Night 1 avaible, Night 2 coming up!]
->
+> Residence Massacre (Script Hub) "Updated ✅️" *Support Night 2*
+
 > Arm Wrestle Simulator (Script Hub)
 
 > Super Fun Obby (Script Hub)
@@ -31,7 +31,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > The Intruder (THE SUBWAY) [New Entity Notifier, ESP, Promxity No Cooldown etc.]
 
-> Interliminality (Script Hub) "NEW SCRIPT + Updated ✅️" *Added Season 1 Chapter 1 to the script!*
+> Interliminality (Script Hub) "NEW SCRIPT ✅️"
 
 > April Fools 2024 (Script Hub) (Not on Loader Script) [April Fools 2024 and 2023 is avaible again after you unlock "Rock Bottom", Only work on MODIFIERS Mode..] [Link : https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20(April%20Fools%202024%20%5BMODIFIERS%5D).lua]
 
