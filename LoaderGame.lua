@@ -17,8 +17,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Doors%20%5BIn%20Game%5D.lua"))()
   elseif game.PlaceId == 12355337193 then -- Murder VS Sherif Duels
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Murder%20VS%20Sherif%20Duels.lua"))()
-  elseif game.PlaceId == 14896802601 then -- Residence Massacre [Night 1]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/Residence%20Massacre%20%5BNight%201%5D.lua"))()
+  elseif game.PlaceId == 16667550979 then -- Residence Massacre [All Chapter]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Residence%20Massacre.lua"))()
   elseif game.PlaceId == 17376262788 then -- The Intruder [SUBWAY]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/main/Games/The%20Intruder%20%5BTHE%20SUBWAY%5D"))()
   elseif game.PlaceId == 15980086096 then -- The 63 Infection
