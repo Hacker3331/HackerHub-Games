@@ -31,9 +31,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Super%20Fun%20Obby.lua"))()
   elseif game.PlaceId == 13127800756 then -- Arm Wrestle Simulator
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Arm%20Wrestle%20Simulator.lua"))()
-  elseif game.PlaceId == 13622981808 then --Rainbow Friend (All Chapter)
+  elseif game.PlaceId == 13622981808 or 7991339063 then --Rainbow Friend (All Chapter)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Rainbow%20Friend%20%5BAll%20Chapter%5D.lua"))()
-  elseif game.PlaceId == 130626300187542 or game.PlaceId == 15814128235 or game.PlaceId == 80983962269476 or game.PlaceId == 15028766230 or game.PlaceId == 15107073596 or game.PlaceId == 14237621735 or game.PlaceId == 14354717254 or game.PlaceId == 14371559467 or game.PlaceId == 14432890699 or game.PlaceId == 14373719352 or game.PlaceId == 14977462342 or game.PlaceId == 15147254009 then --Interliminality (All Chapter)
+  elseif game.PlaceId == 130626300187542 or game.PlaceId == 15814128235 or game.PlaceId == 80983962269476 or game.PlaceId == 15028766230 or game.PlaceId == 15107073596 or game.PlaceId == 14237621735 or game.PlaceId == 14354717254 or game.PlaceId == 14371559467 or game.PlaceId == 14432890699 or game.PlaceId == 14373719352 or game.PlaceId == 14977462342 or game.PlaceId == 15147254009 or 14237585680 then --Interliminality (All Chapter)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-Games/refs/heads/main/Games/Interliminality.lua"))()
 else --Not support
 game:GetService("StarterGui"):SetCore("SendNotification",{
