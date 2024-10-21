@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Murder VS Sherif Duels (Script Hub) "Down ❌️"
 
-> Residence Massacre (Script Hub) "Updated ✅️" *Support Night 2*
+> Residence Massacre (Script Hub) "Updated ✅️" *Support Night 1*
 
 > Arm Wrestle Simulator (Script Hub)
 
