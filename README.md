@@ -23,7 +23,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hacker3331/HackerHub-
 
 > Murder Mystery 2 (Script Hub)
 
-> Piggy (Script Hub) "NEW SCRIPT ✅️" *Decay Chapter Support*
+> Piggy (Script Hub) *Decay Chapter Support*
+>
+> Heroes Battleground (ESP Script) "NEW SCRIPT ✅️" *ESP Player and Door Candy*
 
 > Rainbow Friend (Script Hub)
 
